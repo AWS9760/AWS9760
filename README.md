@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science student and web developer with a strong interest in building efficient and practical software solutions. I enjoy solving problems, developing projects, and exploring different areas of technology to continuously improve my skills.<br><h3>Areas of Interest</h3>Software Development & Engineering<br>Cybersecurity & System Security<br>Artificial Intelligence (AI)<br>Machine Learning (ML)<br><h3>Current Focus</h3>I am consistently working on expanding my knowledge, learning new technologies, and improving my development skills. I aim to grow as a developer while contributing to meaningful and impactful projects.
+I’m a Computer Science student and software developer with a strong interest in building efficient and practical software solutions. I enjoy solving problems, developing projects, and exploring different areas of technology to continuously improve my skills.<br><h3>Areas of Interest</h3>Software Development & Engineering<br>Cybersecurity & System Security<br>Artificial Intelligence (AI)<br>Machine Learning (ML)<br><h3>Current Focus</h3>I am consistently working on expanding my knowledge, learning new technologies, and improving my development skills. I aim to grow as a developer while contributing to meaningful and impactful projects.
 
 
 ## 🌐 Socials:
