@@ -11,6 +11,3 @@ I’m a Computer Science student and software developer with a strong interest i
 ![](https://github-readme-stats.shion.dev/api?username=AWS9760&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=AWS9760&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AWS9760&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AWS9760&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
